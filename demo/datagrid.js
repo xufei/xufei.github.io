@@ -5,7 +5,7 @@ function DataGrid(element) {
 
 	element.innerHTML = '<table class="table table-bordered table-striped"><thead><tr></tr></thead><tbody></tbody><table>';
 
-	this.header = element.firstChild.tHead.rows[0];
+	this.header = element.firstChild.tHead;
 	this.tbody = element.firstChild.tBodies[0];
 
 	this.selectedRow = null;
@@ -13,11 +13,15 @@ function DataGrid(element) {
 
 DataGrid.prototype = {
 	loadColumns: function(columns) {
-		var headStr = "";
-		for (var i=0; i<columns.length; i++) {
-			headStr += "<th>" + columns[i].label + "</th>";
+		if (this.header.rows.length > 0) {
+			this.header.removeChild(this.header.rows[0]);
 		}
-		this.header.innerHTML = headStr;
+		var tr = this.header.insertRow(0);
+
+		for (var i=0; i<columns.length; i++) {
+			var th = tr.insertCell(i);
+			th.innerHTML = columns[i].label;
+		}
 		this.columns = columns;
 	},
 
