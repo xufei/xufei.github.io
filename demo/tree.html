@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<title>Tree</title>
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<meta name="description" content="Tree">
+	<meta name="author" content="xufei">
+
+	<link href="http://twitter.github.io/bootstrap/assets/css/bootstrap.css" rel="stylesheet"/>
+	<script type="text/javascript" src="js/utils.js"></script>
+	<script type="text/javascript" src="js/tree.js"></script>
+	<script type="text/javascript" src="js/contextmenu.js"></script>
+</head>
+<body>
+<div id="tree1" class="span12 row"></div>
+<div class="span12 controls controls-row">
+	<input id="indexField" class="span2" type="text" placeholder="index"/>
+	<input id="nameField" class="span4" type="text" placeholder="name"/>
+	<input id="genderField" class="span2" type="text" placeholder="gender"/>
+	<input id="ageField" class="span2" type="text" placeholder="age"/>
+	<button onclick="addItem()">Add</button>
+</div>
+
+<script type="text/javascript">
+	var menu = new ContextMenu();
+	var data = ["New", "Edit", "Delete", "divider", "Test"];
+	menu.create(data);
+
+	menu.addEventListener("itemClicked", function(event) {
+		alert(event.item.data);
+	});
+
+	var tree = new Tree(document.getElementById("tree1"));
+
+	var data = [
+		{
+			name: "Jiangsu",
+			code: "js",
+			children: [
+				{
+					name: "Nanjing",
+					code: "nj"
+				},
+				{
+					name: "Suzhou",
+					code: "sz",
+					children: [
+						{
+							name: "Wujiang",
+							code: "wj"
+						},
+						{
+							name: "Changshu",
+							code: "cs"
+						}
+					]
+				}
+			]
+		},
+		{
+			name: "Yunnan",
+			code: "yn"
+		},
+		{
+			name: "Fujian",
+			code: "fj"
+		}
+	];
+
+	tree.labelField = "name";
+	tree.loadTreeData(data);
+
+	tree.addEventListener("changed", function (event) {
+		alert(event.newNode.data.name);
+	});
+
+	tree.addEventListener("rightClicked", function (event) {
+		var node = event.node;
+
+		var position = getOffset(node.dom.firstChild);
+		menu.show(position);
+	});
+
+	function addItem() {
+		var data = {
+			index: document.getElementById("indexField").value,
+			name: document.getElementById("nameField").value,
+			gender: document.getElementById("genderField").value,
+			age: document.getElementById("ageField").value
+		};
+
+		grid.insertRow(data);
+	}
+</script>
+</body>
+</html>
