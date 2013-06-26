@@ -1,5 +1,6 @@
 (function (doc) {
 	var moduleMap = {};
+	var fileMap = {};
 
 	//简单的对象属性复制，把源对象上的属性复制到自己身上，只复制一层
 	Object.prototype.extend = function (base) {
@@ -54,6 +55,41 @@
 			}
 
 			return module.entity;
+		},
+
+		require: function(pathArr, callback) {
+
+			for (var i=0; i<pathArr.length; i++) {
+				var path = pathArr[i];
+
+				if (!fileMap[path]) {
+					var head = document.getElementsByTagName('head')[0];
+					var node = document.createElement('script');
+					node.type = 'text/javascript';
+					node.async = 'true';
+					node.src = path + '.js';
+					node.onload = function() {
+						head.removeChild(node);
+						checkAllFiles();
+					};
+					fileMap[path] = true;
+					head.appendChild(node);
+				}
+			}
+
+			function checkAllFiles() {
+				var allLoaded = true;
+				for (var i=0; i<pathArr.length; i++) {
+					if (!fileMap[pathArr[i]]) {
+						allLoaded = false;
+						break;
+					}
+				}
+
+				if (allLoaded) {
+					callback();
+				}
+			}
 		},
 
 		ready: function() {
