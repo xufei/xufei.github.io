@@ -1,7 +1,4 @@
-
 thin.define("StaffManage", ["DataGrid"], function(DataGrid) {
-	var DataGrid = thin.use("DataGrid");
-
 	var state = "View";
 
 	var grid = new DataGrid(document.getElementById("grid1"));
