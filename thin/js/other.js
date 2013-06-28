@@ -1,35 +1,4 @@
 
-function ModuleLoader(module) {
-	var xhr = new XMLHttpRequest();
-	xhr.open('GET', 'new.js');
-	xhr.send('');
-};
-
-ModuleLoader.prototype = {
-	loadModule: function (module) {
-		if (!module.loaded) {
-			var that = this;
-			AJAX.get(module.src, function () {
-				that.loaded = true;
-
-				var script = document.createElement('script');
-				script.setAttribute('type', 'text/javascript');
-				script.setAttribute('src', module.src);
-				script.setAttribute('id', module.id);
-
-				document.getElementsByTagName('head')[0].appendChild(script);
-
-				var event = {
-					type: "moduleLoaded",
-					module: module
-				};
-				that.dispatchEvent(event);
-			})
-		}
-	}
-}.extend(EventDispatcher);
-
-
 /**
  * helper functions
  */
