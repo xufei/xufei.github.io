@@ -1,4 +1,0 @@
-
-thin.define("Dialog", [], function() {
-
-});
