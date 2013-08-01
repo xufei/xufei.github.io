@@ -131,11 +131,11 @@
 
 - 2013年
 
-发表文章《[前端开发技术的发展](http://www.ituring.com.cn/article/details/25069)》
+ 发表文章《[前端开发技术的发展](http://www.ituring.com.cn/article/details/25069)》
 
-发表系列文章《[从零开始编写JavaScript框架](http://www.ituring.com.cn/minibook/770)》
+ 发表系列文章《[从零开始编写JavaScript框架](http://www.ituring.com.cn/minibook/770)》
 
-发表系列文章《[从零开始使用JavaScript创建Web控件](http://www.ituring.com.cn/minibook/753)》
+ 发表系列文章《[从零开始使用JavaScript创建Web控件](http://www.ituring.com.cn/minibook/753)》
  
  规划下一代前端定制平台
 
