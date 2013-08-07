@@ -1,3 +1,86 @@
+Resume
+====
+
+#1. Personal Introduction
+- Name:  Fei.Xu
+- Birth  1982.11
+- Birth Place  Hai'an, Jiangsu Province
+- Email  xu.fei@outlook.com
+- Mobile Phone  13912947727
+
+## Educational Background
+
+- 1998.9 - 2000.1 Materials Science and Engineering Department, Tsinghua University
+- 2001.9 - 2005.6 Computer Science and Engineering Department, Southeast Univertity
+
+## Work Experience
+
+- 2005.7 - 2007.6 ZTEsoft, IOM Department, work as development engineer
+- 2007.7 up to now, ZTEsoft International Product Center, work as architect, the manager of front-end framework project
+
+## Technology specialty
+
+- Familiar with kinds of presentation layer technology such as Web，Win32 API，Flex，Java Swing，Microsoft .net WinForm，WPF，Android.
+- Familiar with several graphical technology, such as GDI, VML, SVG, have some degree of research of image drawing algorithems. 
+- Delve into the Web front-end system of all sorts of problems in the past 10 years, have profound insights on UI modularity and data visualization.
+- Have been one of the main developers in the front-end framework of BOSS products, have profound insights on front-end framework designing.
+- Have a complete opinion on how to build an develop platform with component management, data binding and UI customization.
+- Know about kinds of mobile devices, have a certain degree of understanding of developing mobile apps.
+- Know about Hybird development platforms such as PhoneGap, AppCan, have the ability of figure out the difference between them and native apps, can make suitable choice at kinds of situation.
+- Familiar with details of some famous frameworks such as jQuery, Backbone, AngularJS, RequireJS, UnderScore, can get ride of their advantages and disadvantages, can also build the same kind of functions all by myself as them without their help.
+- Know about Web standards.
+- Runs an open source library of myself, and write technical articles constantly.
+- Often talks with tens of front-end experts, which are at the top of Chinese developers, and follows each other at Sina Weibo(The Chinese Twitter). 
+
+## work achievement
+
+- One of the main participants of ZTEsoft IOM front-end framework.
+- One of the main participants of ZTEsoft CCB ZSmart V7 front-end framework.
+- The director of ZTEsoft ZSmart V8 front-end framework.
+- The director of ZTEsoft ZSmart Web Platform.
+- One of the ZTEsoft top-ten meritorious person in 2011.
+
+## Vision of the future
+
+The future world, is a world of the Web, a world of the mobile platform, a world based on components, a world with customization. For every company who make business software, it's very important to implement a customizable modular platform based on Web, and also for mobile platform.
+
+The ultimate goal of a customizable modular platform is to save people from coding, with this, people can set up services, configurate front-end business logic, generate UI in WYSIWYG(What You See Is What You Get) way, fit UI and logic together, and publish usable UIs in reality. There are some key points in the process.
+
+- In which way do we divide user interface into components?
+- How to manage our front-end business?
+- How to keep the relationship between components?
+- In which way do we fit UI and logic together?
+- How do we manage the transition between UIs?
+- How to bind front-end logic with business entities and services?
+
+All above resovled, can we goto UI customazation. The target platform of UI customazation is not only browsers running on PC, but also mobile platforms, there is no essential difference between these two, all of them can be managed in the same system. So, we achieve the goal of "single service, multiple end", which matches the theory of "three screens and a cloud" by Microsoft. 
+
+From now on, WebOS will become an unstoppable trend, with the help of HTML5 and JavaScript, people can build rich and colorful cross-end applications. It's complex to build a system like WebOS, people are eager to have not only stable operating mechanism, abundant components, friendly APIs and documents, but also peripheral environment, such as visual component platform that helps users to build their apps rapidly. At this point, WebOS development and traditional Web development come to the same way. 
+
+
+Other want to say
+
+- What kind of people do you think can become the front-end technology experts?
+
+Smart, diligent, open mind.
+
+Compared with server-side technology, front-end technology involves the content of impurity, basic knowledge is very wide, easy to learn, difficult to grasp. If someone is not smart enough, there is no way to learn so many things at the same time, not to mention remember, understand, and get ride of them. The front end technology, on the other hand, develops rapidly, if we don't pay attention to it continuously, or open eyes to accept the new things, study their advantages and disadvantages, we will fall behind sooner or later.
+
+- What type of person do you consider yourself?
+
+Smart. Have a classmate at Tsinghua, he never forgets anything, he goes over the books, then remember every word. Although I can't do that exactly, i can recite an article after have reading it three times. With this, I bear a lot of properties and methods of several programming languages in my mind, so when I am coding, I don't have to check the API manual, I was once known as the front-end walking dictionary of my team for this. My IQ should be able to higher than 90% of the people.
+
+Diligence. I stick to learn all kinds of new technology in the past 10 years. when I was in Tsinghua, I have a roommate, who spend 18 hours every day to learn, never stopped. It still shocks me even several years later. Although I wasn't study as hard as him, I made a lot of efforts in the way of drilling technology, which should be able to be more than 90% of the people.
+
+Open mind. For all kinds of new things, I always with curious and eager to have a try, so since I meet computers in 1998, I have learned several dozens of technology, thanks to this, I can compare the advantages and disadvantages of various technologies, make the right choice for some scenes of applicable solutions, and dare to do something in the absence of precedent, such as write an automatic layout process based on the Web in 1995.
+
+So, I am the right person suitable for front-end development.
+
+
+
+简历
+====
+
 #1. 个人简介
 姓名 徐飞
 
@@ -12,7 +95,7 @@
 ##教育经历
 
 - 1998.9 - 2000.1 清华大学材料科学与工程系
-- 2001.5 - 2005.6 东南大学计算机科学与工程系
+- 2001.9 - 2005.6 东南大学计算机科学与工程系
 
 ##工作经历
 
@@ -27,15 +110,18 @@
 - 8年时间BOSS产品前端框架的主力开发人员，对前端框架的设计有深入理解。
 - 对二次开发平台的组件管理，数据绑定，界面定制有完整的构建思路。
 - 较多接触各种移动终端，对移动终端的开发有一定程度的认识。
-- 跟国内最高水平的几十个前端专家经常有交流，跟其中大多数人是微博的互粉好友。
+- 了解PhoneGap，AppCan等Hybird开发平台的机制，懂得它们与移动平台原生开发技术的差异和优缺点，能够在各种场景下作出合适的选择。
 - 熟悉jQuery、Backbone、AngularJS、RequireJS、UnderScore等知名框架的实现机制，并且能综合它们的优缺点，准确把握使用场景，也能够脱离这些框架，从无到有实现同类功能。
 - 对Web标准有一定研究。
+- 有自己的开源库，经常撰写技术文章。
+- 跟国内最高水平的几十个前端专家经常有交流，跟其中大多数人是微博的互粉好友。
 
 #2. 工作业绩
 
 - 中兴软创IOM产品线电子运维与服务开通产品前台框架的主要参与者
 - 中兴软创CCB产品线ZSmart V7前台框架的主要参与者
 - 中兴软创国际产品中心ZSmart V8版本前台框架的主持者和主要参与者
+- 中兴软创Web平台项目的主持者和主要参与者
 - 2011年度获得中兴软创十大功臣之研发功臣荣誉
 
 #3. 技术历程
@@ -69,7 +155,7 @@
 
  学习软件工程的思想
 
- 学习VML和HTC等技术
+ 学习VML、HTC、XMLHTTP等技术
 
  学习Flash和ActionScript
 
@@ -141,7 +227,7 @@
 
 #4. 未来展望
 
-未来的世界，是Web的世界，是移动平台，是组件化的世界，是可定制化的世界。如何实现可定制的基于Web的组件化平台并兼顾移动平台，是各种业务软件公司的头等大事。
+未来的世界，是Web的世界，是移动平台的世界，是组件化的世界，是可定制化的世界。如何实现可定制的基于Web的组件化平台并兼顾移动平台，是各种业务软件公司的头等大事。
 
 可定制Web组件化平台的终极目标是让用户少写甚至完全不写代码，通过这个平台，能够配置服务，配置前端逻辑，所见即所得生成界面，对界面和逻辑进行绑定，发布可以直接在生产环境运行的界面，在这过程中，有几个关键问题：
 
