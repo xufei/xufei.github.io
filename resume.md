@@ -32,7 +32,7 @@ Resume
 - Runs an open source library of myself, and write technical articles constantly.
 - Often talks with tens of front-end experts, which are at the top of Chinese developers, and follows each other at Sina Weibo(The Chinese Twitter). 
 
-## work achievement
+## Work achievement
 
 - One of the main participants of ZTEsoft IOM front-end framework.
 - One of the main participants of ZTEsoft CCB ZSmart V7 front-end framework.
@@ -56,7 +56,6 @@ The ultimate goal of a customizable modular platform is to save people from codi
 All above resovled, can we goto UI customazation. The target platform of UI customazation is not only browsers running on PC, but also mobile platforms, there is no essential difference between these two, all of them can be managed in the same system. So, we achieve the goal of "single service, multiple end", which matches the theory of "three screens and a cloud" by Microsoft. 
 
 From now on, WebOS will become an unstoppable trend, with the help of HTML5 and JavaScript, people can build rich and colorful cross-end applications. It's complex to build a system like WebOS, people are eager to have not only stable operating mechanism, abundant components, friendly APIs and documents, but also peripheral environment, such as visual component platform that helps users to build their apps rapidly. At this point, WebOS development and traditional Web development come to the same way. 
-
 
 ## More words
 
