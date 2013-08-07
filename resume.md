@@ -1,7 +1,7 @@
 Resume
 ====
 
-#1. Personal Introduction
+## Personal Introduction
 - Name:  Fei.Xu
 - Birth  1982.11
 - Birth Place  Hai'an, Jiangsu Province
@@ -58,7 +58,7 @@ All above resovled, can we goto UI customazation. The target platform of UI cust
 From now on, WebOS will become an unstoppable trend, with the help of HTML5 and JavaScript, people can build rich and colorful cross-end applications. It's complex to build a system like WebOS, people are eager to have not only stable operating mechanism, abundant components, friendly APIs and documents, but also peripheral environment, such as visual component platform that helps users to build their apps rapidly. At this point, WebOS development and traditional Web development come to the same way. 
 
 
-Other want to say
+## More words
 
 - What kind of people do you think can become the front-end technology experts?
 
