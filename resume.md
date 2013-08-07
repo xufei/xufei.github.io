@@ -3,10 +3,10 @@ Resume
 
 ## Personal Introduction
 - Name:  Fei.Xu
-- Birth  1982.11
-- Birth Place  Hai'an, Jiangsu Province
-- Email  xu.fei@outlook.com
-- Mobile Phone  13912947727
+- Birth:  1982.11
+- Birth Place:  Hai'an, Jiangsu Province
+- Email:  xu.fei@outlook.com
+- Mobile Phone:  13912947727
 
 ## Educational Background
 
@@ -15,7 +15,7 @@ Resume
 
 ## Work Experience
 
-- 2005.7 - 2007.6 ZTEsoft, IOM Department, work as development engineer
+- 2005.7 - 2007.6, ZTEsoft, IOM Department, work as development engineer
 - 2007.7 up to now, ZTEsoft International Product Center, work as architect, the manager of front-end framework project
 
 ## Technology specialty
