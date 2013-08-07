@@ -3,25 +3,21 @@ Resume
 
 ## Personal Introduction
 - Name:  Fei.Xu
-- Birth:  1982.11
-- Birth Place:  Hai'an, Jiangsu Province
+- Month of birth:  1982.11
+- Place of Birth:  Hai'an county, Jiangsu province
 - Email:  xu.fei@outlook.com
 - Mobile Phone:  13912947727
+- Sina Weibo: http://weibo.com/sharpmaster
 
 ## Educational Background
 
 - 1998.9 - 2000.1 Materials Science and Engineering Department, Tsinghua University
-- 2001.9 - 2005.6 Computer Science and Engineering Department, Southeast Univertity
-
-## Work Experience
-
-- 2005.7 - 2007.6, ZTEsoft, IOM Department, work as development engineer
-- 2007.7 up to now, ZTEsoft International Product Center, work as architect, the manager of front-end framework project
+- 2001.9 - 2005.6 Computer Science and Engineering Department, Southeast University
 
 ## Technology specialty
 
 - Familiar with kinds of presentation layer technology such as Web，Win32 API，Flex，Java Swing，Microsoft .net WinForm，WPF，Android.
-- Familiar with several graphical technology, such as GDI, VML, SVG, have some degree of research of image drawing algorithems. 
+- Familiar with several graphical technology, such as GDI, VML, SVG, have some degree of research of image drawing algorithms. 
 - Delve into the Web front-end system of all sorts of problems in the past 10 years, have profound insights on UI modularity and data visualization.
 - Have been one of the main developers in the front-end framework of BOSS products, have profound insights on front-end framework designing.
 - Have a complete opinion on how to build an develop platform with component management, data binding and UI customization.
@@ -32,19 +28,26 @@ Resume
 - Runs an open source library of myself, and write technical articles constantly.
 - Often talks with tens of front-end experts, which are at the top of Chinese developers, and follows each other at Sina Weibo(The Chinese Twitter). 
 
+## Work Experience
+Since graduation, I worked in ZTEsoft up to now, it's a subsidiary of ZTE, have more than 2000 employees, the major direction of ZTEsoft is to provide business and operation support for telecommunication operators.
+
+- 2005.7 - 2007.6, IOM Department, work as development engineer.
+- 2007.7 - 2013.6, International Product Center, work as architect and the leader of front-end framework project, which contains a number of web development experts cater to Web, Android and iOS framework development.
+- 2013.7 up to now, Product Technology Strategic Planning Committee, work as senior expert and the leader of the Web Platform project.
+
 ## Work achievement
 
-- One of the main participants of ZTEsoft IOM front-end framework.
-- One of the main participants of ZTEsoft CCB ZSmart V7 front-end framework.
-- The director of ZTEsoft ZSmart V8 front-end framework.
-- The director of ZTEsoft ZSmart Web Platform.
+- One of the main participants of ZTEsoft IOM front-end framework, write the web framework code to support business development, most of them were written in JavaScript, we use HTC(HTML Component) to make web components, VML(Vector Markup Language) to draw graphics.
+- One of the main participants of ZTEsoft CCB ZSmart V7 front-end framework, write the web framework code to support business development.
+- The director of ZTEsoft ZSmart V8 front-end framework. We use Flex, a RIA(Rich Internet Application) technique to build the CRM product, also, we improved our design of component platform, so developers who build the business can accomplish their work conveniently. We also paid some effort on mobile platforms such as Android and iOS. 
+- The director of ZTEsoft ZSmart Web Platform. The goal of this platform is to manage our whole develop process, we design UI prototype with it, setup components in it, manage the business logic and services, write documents and demos, and even the release of versions, all of them can be done with it. It's one of the strategic projects in ZTEsoft, with the highest priority. 
 - One of the ZTEsoft top-ten meritorious person in 2011.
 
 ## Vision of the future
 
 The future world, is a world of the Web, a world of the mobile platform, a world based on components, a world with customization. For every company who make business software, it's very important to implement a customizable modular platform based on Web, and also for mobile platform.
 
-The ultimate goal of a customizable modular platform is to save people from coding, with this, people can set up services, configurate front-end business logic, generate UI in WYSIWYG(What You See Is What You Get) way, fit UI and logic together, and publish usable UIs in reality. There are some key points in the process.
+The ultimate goal of a customizable modular platform is to save people from coding, with this, people can deploy services, set up front-end business logic, generate UI in WYSIWYG(What You See Is What You Get) way, fit UI and logic together, and publish usable UIs in reality. There are some key points in the process.
 
 - In which way do we divide user interface into components?
 - How to manage our front-end business?
@@ -53,7 +56,7 @@ The ultimate goal of a customizable modular platform is to save people from codi
 - How do we manage the transition between UIs?
 - How to bind front-end logic with business entities and services?
 
-All above resovled, can we goto UI customazation. The target platform of UI customazation is not only browsers running on PC, but also mobile platforms, there is no essential difference between these two, all of them can be managed in the same system. So, we achieve the goal of "single service, multiple end", which matches the theory of "three screens and a cloud" by Microsoft. 
+All above resolved, can we goto UI customization. The target platform of UI customization is not only browsers running on PC, but also mobile platforms, there is no essential difference between these two, all of them can be managed in the same system. So, we achieve the goal of "single service, multiple end", which matches the theory of "three screens and a cloud" by Microsoft. 
 
 From now on, WebOS will become an unstoppable trend, with the help of HTML5 and JavaScript, people can build rich and colorful cross-end applications. It's complex to build a system like WebOS, people are eager to have not only stable operating mechanism, abundant components, friendly APIs and documents, but also peripheral environment, such as visual component platform that helps users to build their apps rapidly. At this point, WebOS development and traditional Web development come to the same way. 
 
@@ -63,7 +66,7 @@ From now on, WebOS will become an unstoppable trend, with the help of HTML5 and 
 
 Smart, diligent, open mind.
 
-Compared with server-side technology, front-end technology involves the content of impurity, basic knowledge is very wide, easy to learn, difficult to grasp. If someone is not smart enough, there is no way to learn so many things at the same time, not to mention remember, understand, and get ride of them. The front end technology, on the other hand, develops rapidly, if we don't pay attention to it continuously, or open eyes to accept the new things, study their advantages and disadvantages, we will fall behind sooner or later.
+Compared with server-side technology, front-end technology involves the content of impurity, basic knowledge is very wide, easy to learn, but difficult to grasp the spirit. If someone is not smart enough, there is no way to learn so many things at the same time, not to mention remember, understand, and get ride of them. The front-end technology, on the other hand, develops rapidly, if we don't pay attention to it continuously, or open eyes to accept the new things, study their advantages and disadvantages, we will fall behind sooner or later.
 
 - What type of person do you consider yourself?
 
@@ -71,7 +74,7 @@ Smart. Have a classmate at Tsinghua, he never forgets anything, he goes over the
 
 Diligence. I stick to learn all kinds of new technology in the past 10 years. when I was in Tsinghua, I have a roommate, who spend 18 hours every day to learn, never stopped. It still shocks me even several years later. Although I wasn't study as hard as him, I made a lot of efforts in the way of drilling technology, which should be able to be more than 90% of the people.
 
-Open mind. For all kinds of new things, I always with curious and eager to have a try, so since I meet computers in 1998, I have learned several dozens of technology, thanks to this, I can compare the advantages and disadvantages of various technologies, make the right choice for some scenes of applicable solutions, and dare to do something in the absence of precedent, such as write an automatic layout process based on the Web in 1995.
+Open mind. For all kinds of new things, I always with curious and eager to have a try, so since I meet computers in 1998, I have learned several dozens of technology, thanks to this, I can compare the advantages and disadvantages of various technologies, make the right choice for some scenes of applicable solutions, and dare to do something in the absence of precedent, such as write an automatic layout process based on the Web in 2005.
 
 So, I am the right person suitable for front-end development.
 
@@ -91,6 +94,8 @@ So, I am the right person suitable for front-end development.
 
 移动电话 13912947727
 
+新浪微博 http://weibo.com/sharpmaster
+
 ##教育经历
 
 - 1998.9 - 2000.1 清华大学材料科学与工程系
@@ -98,8 +103,11 @@ So, I am the right person suitable for front-end development.
 
 ##工作经历
 
-- 2005.7 - 2007.6 中兴软创IOM产品线 开发工程师
-- 2007.7 至今 中兴软创CCB产品线（后改名为国际产品中心）历任框架开发工程师、架构师、前端框架项目经理。
+从毕业开始，一直工作于中兴软创科技有限责任公司，该公司是中兴通讯的子公司，拥有2000多名员工，主要从事运营支撑解决方案的提供，近年来也从事政企相关软件的开发。
+
+- 2005.7 - 2007.6 IOM产品线，开发工程师
+- 2007.7 - 2013.6 国际产品中心，历任框架开发工程师、架构师、前端框架项目经理，项目中包含多名Web、Android和iOS开发专家。
+- 2013.7至今 产品技术战略规划委员会，担任高级专家（前端方向）、Web平台项目经理，项目中集中了公司最尖端的部分前端技术专家。
 
 ##技术特长
 
