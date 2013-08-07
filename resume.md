@@ -14,7 +14,7 @@ Resume
 - 1998.9 - 2000.1 Materials Science and Engineering Department, Tsinghua University
 - 2001.9 - 2005.6 Computer Science and Engineering Department, Southeast University
 
-## Technology specialty
+## Technology Specialty
 
 - Familiar with kinds of presentation layer technology such as Web，Win32 API，Flex，Java Swing，Microsoft .net WinForm，WPF，Android.
 - Familiar with several graphical technology, such as GDI, VML, SVG, have some degree of research of image drawing algorithms. 
@@ -35,7 +35,7 @@ Since graduation, I worked in ZTEsoft up to now, it's a subsidiary of ZTE, have 
 - 2007.7 - 2013.6, International Product Center, work as architect and the leader of front-end framework project, which contains a number of web development experts cater to Web, Android and iOS framework development.
 - 2013.7 up to now, Product Technology Strategic Planning Committee, work as senior expert and the leader of the Web Platform project.
 
-## Work achievement
+## Work Achievement
 
 - One of the main participants of ZTEsoft IOM front-end framework, write the web framework code to support business development, most of them were written in JavaScript, we use HTC(HTML Component) to make web components, VML(Vector Markup Language) to draw graphics.
 - One of the main participants of ZTEsoft CCB ZSmart V7 front-end framework, write the web framework code to support business development.
@@ -43,7 +43,7 @@ Since graduation, I worked in ZTEsoft up to now, it's a subsidiary of ZTE, have 
 - The director of ZTEsoft ZSmart Web Platform. The goal of this platform is to manage our whole develop process, we design UI prototype with it, setup components in it, manage the business logic and services, write documents and demos, and even the release of versions, all of them can be done with it. It's one of the strategic projects in ZTEsoft, with the highest priority. 
 - One of the ZTEsoft top-ten meritorious person in 2011.
 
-## Vision of the future
+## Vision of the Future
 
 The future world, is a world of the Web, a world of the mobile platform, a world based on components, a world with customization. For every company who make business software, it's very important to implement a customizable modular platform based on Web, and also for mobile platform.
 
@@ -60,7 +60,7 @@ All above resolved, can we goto UI customization. The target platform of UI cust
 
 From now on, WebOS will become an unstoppable trend, with the help of HTML5 and JavaScript, people can build rich and colorful cross-end applications. It's complex to build a system like WebOS, people are eager to have not only stable operating mechanism, abundant components, friendly APIs and documents, but also peripheral environment, such as visual component platform that helps users to build their apps rapidly. At this point, WebOS development and traditional Web development come to the same way. 
 
-## More words
+## Addition
 
 - What kind of people do you think can become the front-end technology experts?
 
