@@ -3,4 +3,4 @@
 	url = https://github.com/xufei/thin.git
 [submodule "mis"]
 	path = mis
-	url = C:/Users/MyPC/AppData/Local/GitHub/PortableGit_ca477551eeb4aea0e4ae9fcd3358bd96720bb5c8/mis
+	url = https://github.com/xufei/mis.git
