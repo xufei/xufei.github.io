@@ -11,9 +11,60 @@
 </head>
 <body>
 <div class="span12">
-	<div class="header">
-		<h3>Hi, nothing</h3>
+	<div id="a">
+		<input type="text"/><button onclick="prepare()">有多少人？</button>
 	</div>
+	<div id="b" style="display: none">
+		<h1 id="current"></h1>
+		<button onclick="start()">start</button>
+		<button onclick="stop()">stop</button>
+		<h1 id="result"></h1>
+	</div>
+
+	<script type="text/javascript">
+		var total = 50;
+		var currentNumber;
+		var checked = [];
+		var timer;
+
+		function prepare() {
+			document.getElementById("a").style.display = "none";
+			document.getElementById("b").style.display = "";
+			total = document.getElementById("totalInput").value - 0;
+		}
+
+		function start() {
+			timer = setTimeout(getNumber, 100);
+		}
+
+		function stop() {
+			clearTimeout(timer);
+			checked.push(currentNumber);
+			document.getElementById("result").innerHTML = checked;
+		}
+
+		function getNumber() {
+			while (true) {
+				currentNumber = Math.ceil(Math.random() * total);
+
+				var flag = false;
+				for (var i=0; i<checked.length; i++) {
+					if (currentNumber === checked[i]) {
+						flag = true;
+						break;
+					}
+				}
+
+				if (!flag) {
+					document.getElementById("current").innerHTML = currentNumber;
+					break;
+				}
+			}
+
+			clearTimeout(timer);
+			timer = setTimeout(getNumber, 100);
+		}
+	</script>
 </div>
 </body>
 </html>
