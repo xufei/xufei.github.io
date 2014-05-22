@@ -1,9 +1,9 @@
 [submodule "mis"]
 	path = mis
 	url = https://github.com/xufei/mis.git
-[submodule "mindmap"]
-	path = mindmap
-	url = https://github.com/xufei/mindmap.git
 [submodule "thin"]
 	path = thin
 	url = https://github.com/xufei/thin.git
+[submodule "ng-control"]
+	path = ng-control
+	url = https://github.com/xufei/ng-control.git
