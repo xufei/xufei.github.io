@@ -7,6 +7,6 @@
 [submodule "ng-control"]
 	path = ng-control
 	url = https://github.com/xufei/ng-control.git
-[submodule "cloud"]
-	path = cloud
-	url = https://github.com/xufei/cloud.git
+[submodule "ng-charts"]
+	path = ng-charts
+	url = https://github.com/xufei/ng-charts.git
