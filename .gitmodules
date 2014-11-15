@@ -10,3 +10,6 @@
 [submodule "ng-charts"]
 	path = ng-charts
 	url = https://github.com/xufei/ng-charts.git
+[submodule "ng-chess"]
+	path = ng-chess
+	url = https://github.com/xufei/ng-chess.git
