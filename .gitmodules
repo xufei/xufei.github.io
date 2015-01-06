@@ -13,3 +13,6 @@
 [submodule "ng-chess"]
 	path = ng-chess
 	url = https://github.com/xufei/ng-chess.git
+[submodule "ng-tutor"]
+	path = ng-tutor
+	url = https://github.com/xufei/ng-tutor.git
