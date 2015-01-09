@@ -1,6 +1,3 @@
-[submodule "mis"]
-	path = mis
-	url = https://github.com/xufei/mis.git
 [submodule "thin"]
 	path = thin
 	url = https://github.com/xufei/thin.git
