@@ -13,3 +13,6 @@
 [submodule "ng-tutor"]
 	path = ng-tutor
 	url = https://github.com/xufei/ng-tutor.git
+[submodule "ng-demo"]
+	path = ng-demo
+	url = https://github.com/xufei/ng-demo.git
