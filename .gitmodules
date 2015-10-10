@@ -16,3 +16,6 @@
 [submodule "ng-demo"]
 	path = ng-demo
 	url = https://github.com/xufei/ng-demo.git
+[submodule "ng1-chess"]
+	path = ng1-chess
+	url = https://github.com/xufei/ng1-chess.git
