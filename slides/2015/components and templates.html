@@ -30,7 +30,7 @@
 	<script>
 	'use strict';
 
-	fetch('README.md').then(function (res) {
+	fetch('https://raw.githubusercontent.com/xufei/slides/master/2015/components%20and%20templates.md').then(function (res) {
 		return res.text();
 	}).then(parseContent).then(createSlides).then(startPresentation);
 
