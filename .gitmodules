@@ -22,3 +22,6 @@
 [submodule "ng1-calendar"]
 	path = ng1-calendar
 	url = https://github.com/xufei/ng1-calendar.git
+[submodule "ng1-portal"]
+	path = ng1-portal
+	url = https://github.com/xufei/ng1-portal.git
